@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Popular Movie</string>
+    <string name="app_detail">Movie Detail</string>
+    <string name="actionsetting">Settings</string>
+    <string name="display_preferences_sort_order_key">SortType</string>
+    <string name="display_preference">Display Preference</string>
+    <string name="display_preferences_sort_order_title">Sort Order</string>
+    <string name="Summary">Select sort order of movie</string>
+    <string name="display_preference_sort_default">popular</string>
+
+    <string name="sort_array_item_1">Most Popular</string>
+    <string name="sort_array_item_2">Highest Rated</string>
+    <string name="sort_array_item_1_value">popular</string>
+    <string name="sort_array_item_2_value">top_rated</string>
+    <string name="title_for_empty_view">No movies</string>
+    <string name="text_for_empty_view">Need Internet connection</string>
+    <string name="title_for_empty_view_favorites">No movies</string>
+    <string name="text_for_empty_view_favorites">Add new movies</string>
+    <string name="add_to_favorites">Favorite</string>
+    <string name="remove_from_favorites">Remove</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="share_trailer">Share</string>
+    <string name="sort_by">Sort by</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top reted</string>
+    <string name="favorites">Favorite</string>
+
+    <string name="user_rating_movie">TMDb: %1$s/10</string>
+    <string name="title_movie_list">Popular movie</string>
+
+</resources>
